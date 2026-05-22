@@ -1,4 +1,4 @@
-# Coal Mine Tycoon (Go)
+# Coal Miner (Go)
 
 ## Описание
 Coal Mine Tycoon — это учебный backend-проект на Go в жанре симулятора предприятия «Угольная шахта».
